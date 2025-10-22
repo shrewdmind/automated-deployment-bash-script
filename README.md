@@ -1,6 +1,3 @@
-# automated-deployment-bash-script
-Automated Deployment Bash Script
-
 # 🚀 Automated Docker + NGINX Deployment Script (`deploy.sh`)
 
 ### **Author:** *John Durodola*
